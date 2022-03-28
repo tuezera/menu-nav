@@ -5,7 +5,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    font-family: 'Poppins', sans-serif;
 }
 
 body{
@@ -44,7 +43,7 @@ body{
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.navigation .menu_toggle::before{
+.navigation  .menu_toggle::before{
     content: '';
     position: absolute;
     width: 35px;
